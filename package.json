@@ -1,0 +1,19 @@
+{
+  "name": "tribute-page",
+  "version": "1.0.0",
+  "description": "responsive web design certification project for freeCodeCamp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AChareun/tribute-page.git"
+  },
+  "author": "Alonso Chareun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AChareun/tribute-page/issues"
+  },
+  "homepage": "https://github.com/AChareun/tribute-page#readme"
+}
