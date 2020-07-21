@@ -7,4 +7,5 @@ Includes freeCodeCamp test suite CDN.
 
 ## Work to do:
 
-I intend to give this project a more funny/joke-vibe so it has a more personal style. So that's something I'll work on eventually.
+- [ ] Redesign the whole project with a mobile-first approach
+- [ ] Go for a more funny/joke-vibe so it has a more personal style.
